@@ -19,8 +19,8 @@
   &nbsp;
 <!-- Use your linkedin account url at href -->
 <a title = "LinkedIn" href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdyeamin05/" height="30" width="40" /></a>
-<a title = "Facebook" href="https://www.facebook.com/mohammad.t.sharkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/mdyeamin05" height="30" width="40" /></a>
-<a title = "Twitter" href="https://twitter.com/tofael483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rasel__official" height="30" width="40" /></a>
+<!-- <a title = "Facebook" href="https://www.facebook.com/mohammad.t.sharkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/mdyeamin05" height="30" width="40" /></a> -->
+<!-- <a title = "Twitter" href="https://twitter.com/tofael483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rasel__official" height="30" width="40" /></a> -->
 <!-- <a href="https://stackoverflow.com/users/16836780/md-yeamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16836780/md-yeamin" height="40" width="40" /></a> -->
 <!-- <a href="https://medium.com/@coderyeamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@coderyeamin" height="30" width="40" /></a>
 <a href="https://discord.gg/Md Yeamin#6366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Md Yeamin#6366" height="30" width="40" /></a>
@@ -36,7 +36,7 @@
       &nbsp;
   <!-- Python -->
 <!-- <a title = "Python" href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python " height= "40" width="40"/> </a>
-&nbsp; -->
+<!-- &nbsp; --> -->
   <!-- JS -->
 <a title = "JavaScript" href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" /> </a> 
   &nbsp; 
@@ -59,8 +59,8 @@
   <a title = "MySQL" href="https://www.mysql.com/" target="_blank"> <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MYSQL" width="40" /> </a>
   &nbsp;
 <!--  <!-- MongoDb -->
- <a title= "MongoDB" href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" />  </a>  -->
-  &nbsp; 
+<!--  <a title= "MongoDB" href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" />  </a>  -->
+  &nbsp;  -->
   <!-- git -->
   <a title = "Git" href="https://git-scm.com/downloads" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" /> </a>
   &nbsp; 
@@ -82,9 +82,9 @@
   <!-- Karate Framework -->
 <a title = "Karate" href="https://karatelabs.github.io/karate/karate-core/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karate_software_logo.svg/1200px-Karate_software_logo.svg.png" alt="Karate Framework " width="40"/> </a>
   &nbsp;
-<!--   <!-- Appium  -->
+<!-- <!--   <!-- Appium  -->
    <a title = "Appium" href="https://appium.io/" target="_blank"> <img src="https://cdn.testingbot.com/assets/integrations/appium-75e88eb18ca3b2ce63d641547ce06398c8ecd971ed17187c9134c8d205465f18.svg" alt="Appium" width="40"/> </a> -->
-  &nbsp;
+  &nbsp; -->
   <!-- Postman  -->
   <a title = "Postman" href="https://www.postman.com/downloads/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman" width="40"/> </a>
   &nbsp;
