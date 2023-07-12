@@ -31,12 +31,12 @@
 </br>
 <p align="center">
   <!--Others-->
-  <!-- Java  -->
+<!--   Java  -->
   <a title = "Java" href="https://www.oracle.com/java/technologies/downloads/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" height= "40" width="50"/> </a>
       &nbsp;
   <!-- Python -->
 <!-- <a title = "Python" href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python " height= "40" width="40"/> </a>
-<!-- &nbsp; --> -->
+<!-- &nbsp; -->
   <!-- JS -->
 <a title = "JavaScript" href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" /> </a> 
   &nbsp; 
@@ -55,7 +55,7 @@
   <!-- SQL  -->
   <a title = "Oracle SQL Developer" href="https://www.oracle.com/database/sqldeveloper/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" alt="SQL" width="40"/> </a>
   &nbsp;
-  <!-- MYSQL -->
+  <!-- MYSQL 
   <a title = "MySQL" href="https://www.mysql.com/" target="_blank"> <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MYSQL" width="40" /> </a>
   &nbsp;
 <!--  <!-- MongoDb -->
@@ -83,14 +83,14 @@
 <a title = "Karate" href="https://karatelabs.github.io/karate/karate-core/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karate_software_logo.svg/1200px-Karate_software_logo.svg.png" alt="Karate Framework " width="40"/> </a>
   &nbsp;
 <!-- <!--   <!-- Appium  -->
-   <a title = "Appium" href="https://appium.io/" target="_blank"> <img src="https://cdn.testingbot.com/assets/integrations/appium-75e88eb18ca3b2ce63d641547ce06398c8ecd971ed17187c9134c8d205465f18.svg" alt="Appium" width="40"/> </a> -->
-  &nbsp; -->
+<!--    <a title = "Appium" href="https://appium.io/" target="_blank"> <img src="https://cdn.testingbot.com/assets/integrations/appium-75e88eb18ca3b2ce63d641547ce06398c8ecd971ed17187c9134c8d205465f18.svg" alt="Appium" width="40"/> </a> -->
+  &nbsp; --> 
   <!-- Postman  -->
   <a title = "Postman" href="https://www.postman.com/downloads/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman" width="40"/> </a>
   &nbsp;
-<!--     <!-- SoapUI  -->
+<!-- <!--     <!-- SoapUI  -->
   <a title = "SoapUI" href="https://www.soapui.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/soapui_93772.png" alt="SoapUI" height = "45" width="45"/> </a> -->
-  &nbsp;
+  &nbsp; -->
   <!-- Jira  -->
    <a title = "JIRA" href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://symphony.com/wp-content/uploads/2020/12/sd-integrations-logo-jira.png" alt="Jira" width="40"/> </a>
    &nbsp;
@@ -100,9 +100,9 @@
   <!--Saucslabs-->
  <a title = "Sauce Labs" href="https://saucelabs.com/" target="_blank"> <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1479221701/v0d4moz4jx0wultjuxec.png" alt="Saucslabs" width="40"/> </a> 
  &nbsp; 
-<!--   <!-- Browserstack  -->
+<!-- <!--   <!-- Browserstack  -->
   <a title = "BrowserStack" href="https://www.browserstack.com/"  target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/browserstack-logo-png-transparent.png" alt="Browserstack" width="40"/> </a> -->
-  &nbsp;
+  &nbsp; -->
   <!-- SDLC  -->
 <!--   <a href="" target="_blank"> <img src="https://t4.ftcdn.net/jpg/05/41/91/07/360_F_541910787_PROoPe5SAXpM1ZQbD0kJtXHDp1pjjfcV.jpg" alt="SDLC" width="40"/> </a>
   &nbsp; -->
@@ -121,7 +121,7 @@
  <!-- VS code  -->
 <a title = "VSCode" href="https://code.visualstudio.com/"target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS code " width="40"/> </a>
 &nbsp;
-  <!-- Hadoop -->
+<!--   Hadoop -->
 <!-- <a href="" target="_blank"> <img src="https://seeklogo.com/images/H/hadoop-logo-608148F581-seeklogo.com.png" alt="Hadoop " width="40"/> </a>
 &nbsp; -->
 </p> 
