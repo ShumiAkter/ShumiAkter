@@ -1,6 +1,6 @@
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=34385e&center=true&width=1000&lines=Hello,+This+is++Shumi+Akter...;But,+You+can+also+call+me+a++Java+Lover...;Thank+You+so+much+for+visiting+My+Profile...)](https://mdyeamin.netlify.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=34385e&center=true&width=1000&lines=Hello,+This+is++Shumi+Akter...;But,+You+can+also+call+me+a++Java+Lover...;Thank+You+so+much+for+yor+time+to+visiting+My+Profile...)](https://mdyeamin.netlify.app/)
 
 <!-- You can use + symbol or %20 to give a space between words -->
 <!-- WE WILL chnage https://mdyeamin.netlify.app/ when we create profile -->
@@ -58,8 +58,8 @@
   <!-- MYSQL -->
   <a title = "MySQL" href="https://www.mysql.com/" target="_blank"> <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MYSQL" width="40" /> </a>
   &nbsp;
- <!-- MongoDb -->
- <a title= "MongoDB" href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" />  </a> 
+<!--  <!-- MongoDb -->
+ <a title= "MongoDB" href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" />  </a>  -->
   &nbsp; 
   <!-- git -->
   <a title = "Git" href="https://git-scm.com/downloads" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" /> </a>
@@ -82,14 +82,14 @@
   <!-- Karate Framework -->
 <a title = "Karate" href="https://karatelabs.github.io/karate/karate-core/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karate_software_logo.svg/1200px-Karate_software_logo.svg.png" alt="Karate Framework " width="40"/> </a>
   &nbsp;
-  <!-- Appium  -->
-   <a title = "Appium" href="https://appium.io/" target="_blank"> <img src="https://cdn.testingbot.com/assets/integrations/appium-75e88eb18ca3b2ce63d641547ce06398c8ecd971ed17187c9134c8d205465f18.svg" alt="Appium" width="40"/> </a>
+<!--   <!-- Appium  -->
+   <a title = "Appium" href="https://appium.io/" target="_blank"> <img src="https://cdn.testingbot.com/assets/integrations/appium-75e88eb18ca3b2ce63d641547ce06398c8ecd971ed17187c9134c8d205465f18.svg" alt="Appium" width="40"/> </a> -->
   &nbsp;
   <!-- Postman  -->
   <a title = "Postman" href="https://www.postman.com/downloads/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman" width="40"/> </a>
   &nbsp;
-    <!-- SoapUI  -->
-  <a title = "SoapUI" href="https://www.soapui.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/soapui_93772.png" alt="SoapUI" height = "45" width="45"/> </a>
+<!--     <!-- SoapUI  -->
+  <a title = "SoapUI" href="https://www.soapui.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/soapui_93772.png" alt="SoapUI" height = "45" width="45"/> </a> -->
   &nbsp;
   <!-- Jira  -->
    <a title = "JIRA" href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://symphony.com/wp-content/uploads/2020/12/sd-integrations-logo-jira.png" alt="Jira" width="40"/> </a>
@@ -100,8 +100,8 @@
   <!--Saucslabs-->
  <a title = "Sauce Labs" href="https://saucelabs.com/" target="_blank"> <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1479221701/v0d4moz4jx0wultjuxec.png" alt="Saucslabs" width="40"/> </a> 
  &nbsp; 
-  <!-- Browserstack  -->
-  <a title = "BrowserStack" href="https://www.browserstack.com/"  target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/browserstack-logo-png-transparent.png" alt="Browserstack" width="40"/> </a>
+<!--   <!-- Browserstack  -->
+  <a title = "BrowserStack" href="https://www.browserstack.com/"  target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/browserstack-logo-png-transparent.png" alt="Browserstack" width="40"/> </a> -->
   &nbsp;
   <!-- SDLC  -->
 <!--   <a href="" target="_blank"> <img src="https://t4.ftcdn.net/jpg/05/41/91/07/360_F_541910787_PROoPe5SAXpM1ZQbD0kJtXHDp1pjjfcV.jpg" alt="SDLC" width="40"/> </a>
@@ -113,10 +113,10 @@
 <a title= "IntelliJ IDEA" href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDea " width="40"/> </a>
 &nbsp;
 <!-- Pycharm -->
-<a title = "PyCharm" href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" alt="Pycharm " width="40"/> </a>
+<!-- <a title = "PyCharm" href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" alt="Pycharm " width="40"/> </a> -->
 &nbsp;
 <!-- Webstorm -->
-<a title = "WebStorm" href="https://www.jetbrains.com/webstorm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" alt="Webstorm " width="40"/> </a>
+<!-- <a title = "WebStorm" href="https://www.jetbrains.com/webstorm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" alt="Webstorm " width="40"/> </a> -->
 &nbsp;
  <!-- VS code  -->
 <a title = "VSCode" href="https://code.visualstudio.com/"target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS code " width="40"/> </a>
@@ -132,7 +132,7 @@
 <h3>All About Me</h3>
 <!-- You can write at your own -->
 <h5>  
-This is Mohammad Sharkar. Currently I am working at Verizon as a Technology Lead. Recently I am working on “Network Agreement Management System” Project where Verizon as a Vendor does a Network agreement with a different company for its network expansion. As a tester, I mimic the role of Engineers to complete the agreement process. I test the newly developed feature manually first, then I start writing the test script based on Java and Selenium based Framework on the story assigned to me.
+This is Shumi Akter. Currently I am working at StateFarm as a QA Tester. Recently I am working on “Network Agreement Management System” Project where Verizon as a Vendor does a Network agreement with a different company for its network expansion. As a tester, I mimic the role of Engineers to complete the agreement process. I test the newly developed feature manually first, then I start writing the test script based on Java and Selenium based Framework on the story assigned to me.
 <br>
 In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am preparing myself by learning HTML, CSS, Bootstrap, Javascript and related Framework. I also learn Python to give a footstep for that language. I also have interest for Hadoop Big Data Analysis.
 </h5>
