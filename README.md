@@ -121,10 +121,10 @@
  <!-- VS code  -->
 <a title = "VSCode" href="https://code.visualstudio.com/"target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS code " width="40"/> </a>
 &nbsp;
-<!--   Hadoop -->
+<!-- <!--   Hadoop -->
 <!-- <a href="" target="_blank"> <img src="https://seeklogo.com/images/H/hadoop-logo-608148F581-seeklogo.com.png" alt="Hadoop " width="40"/> </a>
 &nbsp; -->
-</p> 
+</p>  -->
 
 <div align="center">
 <h1 align="center"></h1>  
@@ -140,7 +140,7 @@ Throughout the years I gained knowledge in SDLC, STLC and working in agile metho
 I used TestNg to test automation and implemented  assertion & validation. I used Jenkins for the CICD pipeline, and I used saucelab for cloud testing. I have knowledge with source control tools like git and github.
 Also, I have experience with BDD and TDD.
 <br>
-In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am preparing myself by learning HTML, CSS, Bootstrap, Javascript and related Framework. I also learn Python to give a footstep for that language. I also have interest for Hadoop Big Data Analysis.
+<!-- In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am preparing myself by learning HTML, CSS, Bootstrap, Javascript and related Framework. I also learn Python to give a footstep for that language. I also have interest for Hadoop Big Data Analysis. -->
 </h5>
 </div>
 
@@ -151,7 +151,7 @@ In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am 
 <!-- <img width="105" height="105" src="" /> -->
 <h3>Portfolio/Website</h3>
    
-  `Personal Website` -> <a href="https://mdyeamin.netlify.app/" target="_blank">`Shumi Akter`</a>
+  `Personal Website` -> <a href="https://ShumiAkter.netlify.app/" target="_blank">`Shumi Akter`</a>
   
 <!--   <h3 align="center">
     my creation another website 
