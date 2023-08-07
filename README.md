@@ -52,7 +52,7 @@
    <!-- Bootstrap -->
 <!--   <a title = "Bootstrap" href="https://getbootstrap.com/" target="_blank"> <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap"  height= "45" width="50" /> </a>
   &nbsp; -->
-  <!-- SQL  -->
+  <!-- SQL 
   <a title = "Oracle SQL Developer" href="https://www.oracle.com/database/sqldeveloper/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" alt="SQL" width="40"/> </a>
   &nbsp;
   <!-- MYSQL 
