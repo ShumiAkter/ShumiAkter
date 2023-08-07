@@ -40,7 +40,7 @@
   <!-- JS -->
 <a title = "JavaScript" href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" /> </a> 
   &nbsp; 
- NodeJS --> 
+ NodeJS  
 <!--  <a title = "NodeJS" href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" />
   &nbsp; -->
   <!-- HTML
@@ -79,12 +79,12 @@
   <!-- Rest Assured  -->
    <a title = "Rest-Assured" href="https://rest-assured.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="Rest Assured " width="40"/> </a>
    &nbsp;
-  <!-- Karate Framework -->
+  Karate Framework
 <a title = "Karate" href="https://karatelabs.github.io/karate/karate-core/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karate_software_logo.svg/1200px-Karate_software_logo.svg.png" alt="Karate Framework " width="40"/> </a>
   &nbsp;
 <!-- <!--   <!-- Appium  -->
 <!--    <a title = "Appium" href="https://appium.io/" target="_blank"> <img src="https://cdn.testingbot.com/assets/integrations/appium-75e88eb18ca3b2ce63d641547ce06398c8ecd971ed17187c9134c8d205465f18.svg" alt="Appium" width="40"/> </a> -->
-  &nbsp; --> 
+  &nbsp; 
   <!-- Postman  -->
   <a title = "Postman" href="https://www.postman.com/downloads/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman" width="40"/> </a>
   &nbsp;
@@ -102,10 +102,10 @@
  &nbsp; 
 <!-- <!--   <!-- Browserstack  -->
   <a title = "BrowserStack" href="https://www.browserstack.com/"  target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/browserstack-logo-png-transparent.png" alt="Browserstack" width="40"/> </a> -->
-  &nbsp; -->
+  &nbsp; 
   <!-- SDLC  -->
 <!--   <a href="" target="_blank"> <img src="https://t4.ftcdn.net/jpg/05/41/91/07/360_F_541910787_PROoPe5SAXpM1ZQbD0kJtXHDp1pjjfcV.jpg" alt="SDLC" width="40"/> </a>
-  &nbsp; -->
+  &nbsp; 
   <!-- Eclipse  -->
 <a title = "Eclipse" href="https://www.eclipse.org/downloads/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" alt="Eclipse" width="40"/> </a>
 &nbsp;
